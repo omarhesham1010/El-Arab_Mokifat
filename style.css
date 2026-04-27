@@ -260,13 +260,13 @@ button { cursor: pointer; border: none; background: none; font-family: var(--fon
   color: var(--white);
 }
 .hero-logo {
-  margin-bottom: 20px;
+  margin-bottom: 24px;
 }
 .hero-logo-img {
-  width: min(380px, 85vw);
-  height: auto;
+  width: 120px;
+  height: 120px;
   margin: 0 auto;
-  filter: drop-shadow(0 8px 24px rgba(0,0,0,0.35));
+  filter: drop-shadow(0 8px 28px rgba(0,0,0,0.4));
 }
 
 .hero-badge {
